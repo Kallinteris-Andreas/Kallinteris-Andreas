@@ -1,7 +1,7 @@
 ### Hi, I'm Andreas Kallinteris 👋
 
 I am a **Research Engineer** specializing in **RL Infrastructure** and **Robotics Simulation**. 
-I serve as a Core Maintainer at the [Farama Foundation](https://farama.org), where I architect the tools used by tens of thousands of researchers globally (49M+ downloads).
+I serve as a Core Maintainer at the [Farama Foundation](https://farama.org), where I architect the tools used by tens of thousands of researchers globally (50M+ downloads).
 
 🔭 **Current Focus**
 - **Standardizing Robotics RL:** Architected the [MuJoCo v5 integration](https://farama.org/Gymnasium-MuJoCo-v5_Environments) for Gymnasium, enabling plug-and-play URDF/MJCF support.
