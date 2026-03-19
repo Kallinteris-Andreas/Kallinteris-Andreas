@@ -16,6 +16,6 @@ I serve as a Core Maintainer at the [Farama Foundation](https://farama.org), whe
 
 📫 **Contact**
 - **Status:** Actively looking for Engineering roles (Infrastructure / Robotics).
-- **Visa:** EU Citizen. **Eligible for O-1 Visa (USA)** & Global Talent (UK) based on NeurIPS authorship and open-source leadership.
+- **Visa:** EU Citizen.
 - **Email:** kallinteris <AT> protonmail.com
 - **LinkedIn:** [linkedin.com/in/akallinteris](https://www.linkedin.com/in/akallinteris/)
